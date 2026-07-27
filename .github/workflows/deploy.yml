@@ -22,4 +22,4 @@ jobs:
           script: |
             cd ~/Github-Actions-AK
             git pull
-            docker compose up -d
+            docker compose up -d --build
