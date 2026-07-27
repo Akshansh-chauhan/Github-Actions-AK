@@ -5,7 +5,7 @@ This is a simple Node.js Express application running in Docker, managed by Docke
 
 Steps:
 1. Local code commit
-2. On PUSH event trigger the cicd
+2. On PUSH event triggers -> CiCd
 3. SSH into the server
 4. cd into the workdir
 5. PULL the latest code
